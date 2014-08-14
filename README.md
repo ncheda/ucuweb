@@ -1,4 +1,7 @@
 ucuweb
+<<<<<<< .mine
+======
+casa=======
 ======
 
-notbook 
+notbook >>>>>>> .r14
